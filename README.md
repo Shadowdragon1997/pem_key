@@ -5,8 +5,6 @@ wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/quabnv/pem/vt1/v
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/quabnv/pem/vt1/vt1.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-```
-
 
 ## VT2
 ```
