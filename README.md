@@ -35,7 +35,7 @@ wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt5/
 ```
 ## VT6
 ```
-wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt6/vt2.pem -O /etc/XrayR/server.pem
+wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt6/vt6.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt6/vt6.privkey.pem -O /etc/XrayR/privkey.pem
