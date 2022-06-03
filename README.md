@@ -47,10 +47,10 @@ wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt7/
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt7/vt7.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT8
+## Gaming1
 ```
-wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt8/vt8.pem -O /etc/XrayR/server.pem
+wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming1/gaming1.pem -O /etc/XrayR/server.pem
 ```
 ```
-wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt8/vt8.privkey.pem -O /etc/XrayR/privkey.pem
+wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming1/gaming1.privkey.pem -O /etc/XrayR/privkey.pem
 ```
