@@ -68,10 +68,10 @@ wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gami
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming3/gaming3.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## Gaming4
+## Router1
 ```
-wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming4/gaming4.pem -O /etc/XrayR/server.pem
+wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/router1/router1.pem -O /etc/XrayR/server.pem
 ```
 ```
-wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming4/gaming4.privkey.pem -O /etc/XrayR/privkey.pem
+wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/router1/router1.privkey.pem -O /etc/XrayR/privkey.pem
 ```
