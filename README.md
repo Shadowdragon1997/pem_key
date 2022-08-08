@@ -1,74 +1,74 @@
-## VT1
+## VT 1
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt1/vt1.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt1/vt1.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT2
+## VT 2
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt2/vt2.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt2/vt2.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT3
+## VT 3
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt3/vt3.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt3/vt3.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT4
+## VT 4
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt4/vt4.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt4/vt4.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT5
+## VT 5
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt5/vt5.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt5/vt5.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT6
+## VT 6
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt6/vt6.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt6/vt6.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## VT7
+## VT 7
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt7/vt7.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/vt7/vt7.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## Gaming1
+## Gaming 1
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming1/gaming1.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming1/gaming1.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## Gaming2
+## Gaming 2
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming2/gaming2.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming2/gaming2.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## Gaming3
+## Gaming 3
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming3/gaming3.pem -O /etc/XrayR/server.pem
 ```
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/gaming3/gaming3.privkey.pem -O /etc/XrayR/privkey.pem
 ```
-## Router1
+## Router 1
 ```
 wget https://raw.githubusercontent.com/Shadowdragon1997/pem_key/anhkhoa/pem/router1/router1.pem -O /etc/XrayR/server.pem
 ```
